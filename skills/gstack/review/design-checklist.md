@@ -1,1 +1,0 @@
-/Users/chrismaskey/gstack/review/design-checklist.md

@@ -1,1 +1,0 @@
-/Users/chrismaskey/gstack/review/checklist.md
